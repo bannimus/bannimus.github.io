@@ -28,6 +28,34 @@ Key Features: Dynamic Trailing Stop-Loss mechanisms, Helius Premium RPC integrat
 
 Technologies: Rust, Solana Web3.js / RPC, Asynchronous Programming.
 
+<img width="985" height="516" alt="sniper6" src="https://github.com/user-attachments/assets/f1a946b1-ddf9-44d0-8a4d-b59777f49c7d" />
+<p>
+<p>
+--------------
+
+<img width="969" height="391" alt="sniper5" src="https://github.com/user-attachments/assets/e2c4d4e6-1e64-4055-9f06-25db4ac94871" />
+<p>
+<p>
+--------------
+
+<img width="730" height="290" alt="sniper4" src="https://github.com/user-attachments/assets/f694039e-1256-41b6-95f4-1b577a01a23e" />
+<p>
+<p>
+--------------
+
+<img width="736" height="296" alt="sniper3" src="https://github.com/user-attachments/assets/121bbc43-aca4-4a8d-a4c5-ce7a562f870e" />
+<p>
+<p>
+--------------
+
+<img width="742" height="389" alt="sniper2" src="https://github.com/user-attachments/assets/40855363-1539-4897-bd63-5e9e899fd08b" />
+<p>
+<p>
+--------------
+
+<img width="742" height="377" alt="sniper1" src="https://github.com/user-attachments/assets/a6d38443-e14a-495e-b91d-9f43b14f2fbe" />
+
+
 3. Invariant Fuzzer for Smart Contracts
 
 Project Summary: An advanced security analysis tool developed to detect complex logic flaws and vulnerabilities in Ethereum-based smart contracts, optimized for Bug Bounty programs.
