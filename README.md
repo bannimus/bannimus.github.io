@@ -89,6 +89,14 @@ Key Features: Tick-based timeline visualization of inflation, supply-demand bala
 
 Technologies: Python, Data Visualization, Statistical Modeling.
 
+<img width="1366" height="1832" alt="d92432d8-7570-473a-ac58-2b31615186a3" src="https://github.com/user-attachments/assets/542e518d-8c14-4ef1-bca0-e99aa975a8a5" />
+
+<p>
+<p>
+--------------
+  
+<img width="1366" height="1832" alt="59087f44-2049-4e28-8161-730c00aee77d" src="https://github.com/user-attachments/assets/00493954-c3a1-42c6-8332-38045bb819d5" />
+
 5. Monte Carlo Sports Betting Analytics Pro
 
 Project Summary: A desktop application that utilizes big data analysis and Monte Carlo simulations to calculate probabilities and generate optimized betting strategies and slips for sports events.
