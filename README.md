@@ -81,6 +81,44 @@ Key Features: Genetic fuzzing to stress-test contract states, automated detectio
 
 Technologies: Rust, Solidity, Fuzz Testing, EVM (Ethereum Virtual Machine) Analysis.
 
+
+
+
+<img width="1087" height="726" alt="1" src="https://github.com/user-attachments/assets/f8ac9377-7429-4bad-80ec-78fbfa00aa4f" />
+
+
+<p>
+<p>
+--------------
+<img width="1084" height="720" alt="2" src="https://github.com/user-attachments/assets/fd58dc41-7451-47ff-b896-53d38a30e337" />
+
+<p>
+<p>
+--------------
+
+<img width="1084" height="723" alt="3" src="https://github.com/user-attachments/assets/a5e345b1-8e01-4629-9928-3a1c56167431" />
+<p>
+<p>
+--------------
+<img width="1090" height="723" alt="4" src="https://github.com/user-attachments/assets/4fd0abbe-fcd5-452e-8cce-b6038749f48d" />
+<p>
+<p>
+--------------
+<img width="1087" height="723" alt="5" src="https://github.com/user-attachments/assets/23feacec-ae65-49ef-849b-9090b0f89a58" />
+<p>
+<p>
+--------------
+<img width="1084" height="729" alt="6" src="https://github.com/user-attachments/assets/d25eb0c7-3ee8-4370-9b10-712b656cc882" />
+<p>
+<p>
+--------------
+<img width="1084" height="729" alt="7" src="https://github.com/user-attachments/assets/af2b503e-164e-4801-8a21-d5a9fcaf121f" />
+<p>
+<p>
+--------------
+
+<img width="1087" height="726" alt="8" src="https://github.com/user-attachments/assets/92c8e39f-4c6c-4e25-bd6e-c2e471e135f9" />
+
 4. Economy Red Team Dashboard (Game Economy Balancer)
 
 Project Summary: A simulation and stress-testing platform designed for multiplayer or RPG games to balance in-game currency, crafting costs, and player economic behaviors.
