@@ -6,6 +6,11 @@ Project Summary: A deterministic and local/cloud LLM-supported personal assistan
 Key Features: Automated task and board creation via Trello API integration, extracting action items from meeting notes, real-time scraping and listing of micro-job opportunities via RSS and web scraping, smart filtering, and automated generation of job application drafts using LLMs.
 
 Technologies: Python (Backend REST API), Custom Web UI (HTML/CSS/JS), LLM Integration (Cloud & Local), API Management, Web Scraping.
+<img width="1366" height="603" alt="karargah3" src="https://github.com/user-attachments/assets/e03f0cbf-02e6-4f7a-9af6-de6a44fc26d2" />
+<img width="1366" height="609" alt="karargah2" src="https://github.com/user-attachments/assets/14e0dd16-1654-4d93-a521-a8466bf7a76d" />
+<img width="1366" height="612" alt="karargah1" src="https://github.com/user-attachments/assets/f183b6f3-7784-410a-a686-9b953fb48f27" />
+
+
 
 2. High-Frequency Crypto Sniper Bots (Solana & Pump.fun)
 
