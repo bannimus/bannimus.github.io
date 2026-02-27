@@ -64,7 +64,7 @@ Technologies: Rust, Solana Web3.js / RPC, Asynchronous Programming.
 <p>
 --------------
 
-Other project for Trading Bot:
+Other project for Trading Bot (on Binance Futures works):
 
 <p>
 <p>
