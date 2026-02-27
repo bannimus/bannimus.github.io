@@ -101,6 +101,12 @@ Technologies: Python (GUI), C++ (Analytics Engine), Database Management, Statist
 --------------
 
 <img width="1366" height="726" alt="sportoto1" src="https://github.com/user-attachments/assets/5ee2d81f-ef04-4fed-b6b7-3d7fe3d88a42" />
+<p>
+<p>
+--------------
+
+<img width="1366" height="723" alt="sportoto7" src="https://github.com/user-attachments/assets/5a4cfa6c-9cb3-4d34-bcf8-4068f490a09f" />
+
 
 
 6. Ghost Sync: E2E P2P Synchronization
