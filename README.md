@@ -80,6 +80,29 @@ Key Features: High-speed C++ based simulation engine, adaptive recommendation sy
 
 Technologies: Python (GUI), C++ (Analytics Engine), Database Management, Statistical Analysis.
 
+<img width="1366" height="726" alt="sportoto5" src="https://github.com/user-attachments/assets/8d8aa418-2bab-4659-99f9-91331ba8b3aa" />
+<p>
+<p>
+--------------
+
+<img width="1366" height="729" alt="sportoto4" src="https://github.com/user-attachments/assets/82784490-7232-4526-9b78-37212b5226a3" />
+<p>
+<p>
+--------------
+
+<img width="1366" height="726" alt="sportoto3" src="https://github.com/user-attachments/assets/3e68163d-fe76-4ca2-b264-d02414b28aad" />
+<p>
+<p>
+--------------
+
+<img width="1366" height="726" alt="sportoto2" src="https://github.com/user-attachments/assets/0b4f74c8-a96e-4fe0-912d-fad8914ba864" />
+<p>
+<p>
+--------------
+
+<img width="1366" height="726" alt="sportoto1" src="https://github.com/user-attachments/assets/5ee2d81f-ef04-4fed-b6b7-3d7fe3d88a42" />
+
+
 6. Ghost Sync: E2E P2P Synchronization
 
 Project Summary: A security-focused desktop application providing decentralized (peer-to-peer), cross-device file and clipboard sharing.
