@@ -60,6 +60,18 @@ Technologies: Rust, Solana Web3.js / RPC, Asynchronous Programming.
 
 <img width="742" height="377" alt="sniper1" src="https://github.com/user-attachments/assets/a6d38443-e14a-495e-b91d-9f43b14f2fbe" />
 
+<p>
+<p>
+--------------
+
+Other project for Trading Bot:
+
+<p>
+<p>
+--------------
+
+<img width="1366" height="729" alt="tradingbot1" src="https://github.com/user-attachments/assets/cf7145ee-c929-4a59-a3a3-03bf1ce6b929" />
+
 
 3. Invariant Fuzzer for Smart Contracts
 
