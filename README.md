@@ -9,6 +9,11 @@ Technologies: Python (Backend REST API), Custom Web UI (HTML/CSS/JS), LLM Integr
 <img width="1366" height="612" alt="karargah1" src="https://github.com/user-attachments/assets/f183b6f3-7784-410a-a686-9b953fb48f27" /> <p>
 <p>
 --------------
+<img width="1366" height="609" alt="karargah99" src="https://github.com/user-attachments/assets/03249ffc-d83b-4650-81f0-1857a5aaec16" />
+
+<p>
+<p>
+--------------
 
 <img width="1366" height="603" alt="karargah3" src="https://github.com/user-attachments/assets/e03f0cbf-02e6-4f7a-9af6-de6a44fc26d2" />
 <p>
