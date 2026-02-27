@@ -1,235 +1,104 @@
-🇬🇧 ENGLISH PORTFOLIO
-1. Karargah: AI-Powered Autonomous Agent Platform
+# Güven Yeşilyurt | Backend & Systems Developer
 
-Project Summary: A deterministic and local/cloud LLM-supported personal assistant and command center designed to automate freelance job hunting, task management, and data aggregation.
+Welcome to my portfolio! I specialize in high-performance system programming, Web3/crypto automation, game economy simulations, and data analytics. 
+*(Portfolyoma hoş geldiniz! Yüksek performanslı sistem programlama, Web3/kripto otomasyonları, oyun ekonomisi simülasyonları ve veri analitiği alanlarında uzmanım.)*
 
-Key Features: Automated task and board creation via Trello API integration, extracting action items from meeting notes, real-time scraping and listing of micro-job opportunities via RSS and web scraping, smart filtering, and automated generation of job application drafts using LLMs.
+**📬 İletişim / Contact:**
+* **Email:** [bannimus@gmail.com]
+* **Bionluk:** [https://bionluk.com/guveny]
 
-Technologies: Python (Backend REST API), Custom Web UI (HTML/CSS/JS), LLM Integration (Cloud & Local), API Management, Web Scraping.
-<img width="1366" height="612" alt="karargah1" src="https://github.com/user-attachments/assets/f183b6f3-7784-410a-a686-9b953fb48f27" /> <p>
-<p>
---------------
-<img width="1366" height="609" alt="karargah99" src="https://github.com/user-attachments/assets/03249ffc-d83b-4650-81f0-1857a5aaec16" />
+---
 
-<p>
-<p>
---------------
+## 1. Karargah: AI-Powered Autonomous Agent Platform / Yapay Zeka Destekli Otonom Ajan Platformu
 
-<img width="1366" height="603" alt="karargah3" src="https://github.com/user-attachments/assets/e03f0cbf-02e6-4f7a-9af6-de6a44fc26d2" />
-<p>
-  <p>
-  --------------
-  
-<img width="1366" height="609" alt="karargah2" src="https://github.com/user-attachments/assets/14e0dd16-1654-4d93-a521-a8466bf7a76d" />
+**[EN]**
+* **Project Summary:** A deterministic and local/cloud LLM-supported personal assistant and command center designed to automate freelance job hunting, task management, and data aggregation.
+* **Key Features:** Automated task and board creation via Trello API integration, extracting action items from meeting notes, real-time scraping and listing of micro-job opportunities via RSS and web scraping, smart filtering, and automated generation of job application drafts using LLMs.
+* **Technologies:** Python (Backend REST API), Custom Web UI (HTML/CSS/JS), LLM Integration (Cloud & Local), API Management, Web Scraping.
 
+**[TR]**
+* **Proje Özeti:** Freelance iş arayışını, görev yönetimini ve veri toplamayı otomatize eden, hem deterministik hem de yerel/bulut LLM destekli kişisel asistan ve otonom kontrol paneli.
+* **Öne Çıkan Özellikler:** Trello API entegrasyonu ile otomatik görev/pano oluşturma, toplantı notlarından aksiyon maddeleri çıkarma, RSS ve web scraping ile online platformlardan mikro iş fırsatlarını (freelance ilanları) anlık toplayıp listeleme, akıllı filtreleme ve LLM ile otomatik başvuru taslağı oluşturma.
+* **Teknolojiler:** Python (Backend REST API), Custom Web UI (HTML/CSS/JS), LLM Entegrasyonu (Cloud & Local), API Yönetimi, Web Scraping.
 
+<img width="100%" alt="karargah1" src="https://github.com/user-attachments/assets/f183b6f3-7784-410a-a686-9b953fb48f27" />
 
+<br><br>
 
-2. High-Frequency Crypto Sniper Bots (Solana & Pump.fun)
+## 2. High-Frequency Crypto Sniper Bots (Solana & Pump.fun) / Yüksek Hızlı Kripto Sniper Botları
 
-Project Summary: Performance-driven trading bots built to detect and execute trades on newly listed tokens across the Solana network and Pump.fun in milliseconds.
+**[EN]**
+* **Project Summary:** Performance-driven trading bots built to detect and execute trades on newly listed tokens across the Solana network and Pump.fun in milliseconds.
+* **Key Features:** Dynamic Trailing Stop-Loss mechanisms, Helius Premium RPC integration, real-time smart contract security scanning via GoPlus Security API (honeypot/mint authority checks), and high-performance asynchronous execution.
+* **Technologies:** Rust, Solana Web3.js / RPC, Asynchronous Programming.
 
-Key Features: Dynamic Trailing Stop-Loss mechanisms, Helius Premium RPC integration, real-time smart contract security scanning via GoPlus Security API (honeypot/mint authority checks), and high-performance asynchronous execution.
+**[TR]**
+* **Proje Özeti:** Solana ağı ve Pump.fun üzerinde yeni listelenen tokenları milisaniyeler içinde tespit edip alım-satım yapan, performansa dayalı ticaret botları.
+* **Öne Çıkan Özellikler:** Dinamik zarar kes (Trailing Stop-Loss) mekanizması, Helius Premium RPC entegrasyonu, GoPlus Security API ile anlık akıllı kontrat güvenlik taraması (honeypot/mint yetkisi kontrolü), yüksek performanslı asenkron işlem yönetimi.
+* **Teknolojiler:** Rust, Solana Web3.js / RPC, Asenkron Programlama.
 
-Technologies: Rust, Solana Web3.js / RPC, Asynchronous Programming.
+<img width="100%" alt="sniper6" src="https://github.com/user-attachments/assets/f1a946b1-ddf9-44d0-8a4d-b59777f49c7d" />
 
-<img width="985" height="516" alt="sniper6" src="https://github.com/user-attachments/assets/f1a946b1-ddf9-44d0-8a4d-b59777f49c7d" />
-<p>
-<p>
---------------
+<br><br>
 
-<img width="969" height="391" alt="sniper5" src="https://github.com/user-attachments/assets/e2c4d4e6-1e64-4055-9f06-25db4ac94871" />
-<p>
-<p>
---------------
+## 3. Invariant Fuzzer for Smart Contracts / Akıllı Kontratlar için Genetik Fuzzer ve Zafiyet Tarayıcı
 
-<img width="730" height="290" alt="sniper4" src="https://github.com/user-attachments/assets/f694039e-1256-41b6-95f4-1b577a01a23e" />
-<p>
-<p>
---------------
+**[EN]**
+* **Project Summary:** An advanced security analysis tool developed to detect complex logic flaws and vulnerabilities in Ethereum-based smart contracts, optimized for Bug Bounty programs.
+* **Key Features:** Genetic fuzzing to stress-test contract states, automated detection of Reentrancy vulnerabilities and Timestamp/Block Number manipulation, alongside Double-Spend checks.
+* **Technologies:** Rust, Solidity, Fuzz Testing, EVM (Ethereum Virtual Machine) Analysis.
 
-<img width="736" height="296" alt="sniper3" src="https://github.com/user-attachments/assets/121bbc43-aca4-4a8d-a4c5-ce7a562f870e" />
-<p>
-<p>
---------------
+**[TR]**
+* **Proje Özeti:** Ethereum tabanlı akıllı kontratlardaki karmaşık mantık hatalarını ve güvenlik açıklarını tespit etmek için geliştirilmiş güvenlik analiz aracı. (Bug Bounty odaklı)
+* **Öne Çıkan Özellikler:** Genetik algoritmalar kullanarak kontratların durumunu (state) zorlama, Reentrancy (Yeniden giriş) açıkları ve Timestamp/Block Number manipülasyonu tespiti, çift harcama (Double-Spend) kontrolleri.
+* **Teknolojiler:** Rust, Solidity, Fuzz Testing, EVM (Ethereum Virtual Machine) Analizi.
 
-<img width="742" height="389" alt="sniper2" src="https://github.com/user-attachments/assets/40855363-1539-4897-bd63-5e9e899fd08b" />
-<p>
-<p>
---------------
+<img width="100%" alt="fuzzer" src="https://github.com/user-attachments/assets/92c8e39f-4c6c-4e25-bd6e-c2e471e135f9" />
 
-<img width="742" height="377" alt="sniper1" src="https://github.com/user-attachments/assets/a6d38443-e14a-495e-b91d-9f43b14f2fbe" />
+<br><br>
 
-<p>
-<p>
---------------
+## 4. Economy Red Team Dashboard / Oyun Ekonomisi Simülasyonu
 
-Other project for Trading Bot (on Binance Futures works):
+**[EN]**
+* **Project Summary:** A simulation and stress-testing platform designed for multiplayer or RPG games to balance in-game currency, crafting costs, and player economic behaviors.
+* **Key Features:** Tick-based timeline visualization of inflation, supply-demand balance, net worth fluctuations, and hoarding behaviors. Includes "Red Team" simulations to stress-test and intentionally crash the economy to find design flaws.
+* **Technologies:** Python, Data Visualization, Statistical Modeling.
 
-<p>
-<p>
---------------
+**[TR]**
+* **Proje Özeti:** Çok oyunculu veya RPG oyunlar için tasarlanmış, oyun içi para birimi, üretim (crafting) maliyetleri ve oyuncu davranışlarını simüle eden test platformu.
+* **Öne Çıkan Özellikler:** Enflasyon, arz-talep dengesi, net değer değişimi ve stokçuluk davranışlarının zaman çizelgesinde (tick tabanlı) görselleştirilmesi, zafiyet testi (Red Team) ile ekonomiyi çökertme senaryoları simülasyonu.
+* **Teknolojiler:** Python, Veri Görselleştirme, İstatistiksel Modelleme.
 
-<img width="1366" height="729" alt="tradingbot1" src="https://github.com/user-attachments/assets/cf7145ee-c929-4a59-a3a3-03bf1ce6b929" />
+<img width="100%" alt="economy" src="https://github.com/user-attachments/assets/542e518d-8c14-4ef1-bca0-e99aa975a8a5" />
 
+<br><br>
 
-3. Invariant Fuzzer for Smart Contracts
+## 5. Monte Carlo Sports Betting Analytics Pro / Monte Carlo Spor Analiz ve Tahmin Motoru
 
-Project Summary: An advanced security analysis tool developed to detect complex logic flaws and vulnerabilities in Ethereum-based smart contracts, optimized for Bug Bounty programs.
+**[EN]**
+* **Project Summary:** A desktop application that utilizes big data analysis and Monte Carlo simulations to calculate probabilities and generate optimized betting strategies and slips for sports events.
+* **Key Features:** High-speed C++ based simulation engine, adaptive recommendation system based on budget strategies (safe/aggressive profiles), historical data comparison, and smart filtering algorithms to reduce combination costs.
+* **Technologies:** Python (GUI), C++ (Analytics Engine), Database Management, Statistical Analysis.
 
-Key Features: Genetic fuzzing to stress-test contract states, automated detection of Reentrancy vulnerabilities and Timestamp/Block Number manipulation, alongside Double-Spend checks.
+**[TR]**
+* **Proje Özeti:** Spor müsabakaları için büyük veri analizi ve Monte Carlo simülasyonları kullanarak olasılık hesaplayan ve optimize edilmiş bahis stratejileri/kolonları üreten masaüstü yazılımı.
+* **Öne Çıkan Özellikler:** C++ tabanlı yüksek hızlı simülasyon motoru, bütçe stratejilerine göre adaptif öneri sistemi (güvenli/cesur profiller), geçmiş hafta istatistikleri karşılaştırması ve akıllı filtreleme ile maliyet düşürme algoritmaları.
+* **Teknolojiler:** Python (Arayüz), C++ (Analiz Motoru), Veritabanı Yönetimi, İstatistiksel Analiz.
 
-Technologies: Rust, Solidity, Fuzz Testing, EVM (Ethereum Virtual Machine) Analysis.
+<img width="100%" alt="sportoto" src="https://github.com/user-attachments/assets/8d8aa418-2bab-4659-99f9-91331ba8b3aa" />
 
+<br><br>
 
+## 6. Ghost Sync: E2E P2P Synchronization / Uçtan Uca Şifreli P2P Senkronizasyon
 
+**[EN]**
+* **Project Summary:** A security-focused desktop application providing decentralized (peer-to-peer), cross-device file and clipboard sharing.
+* **Key Features:** End-to-end encryption (E2EE), direct device-to-device data transfer without intermediary servers, and minimal system resource consumption.
+* **Technologies:** Rust, Tauri, Svelte/Frontend Technologies, P2P Networking.
 
-<img width="1087" height="726" alt="1" src="https://github.com/user-attachments/assets/f8ac9377-7429-4bad-80ec-78fbfa00aa4f" />
+**[TR]**
+* **Proje Özeti:** Cihazlar arası merkeziyetsiz (peer-to-peer) dosya ve pano (clipboard) paylaşımı sağlayan, güvenlik odaklı masaüstü uygulaması.
+* **Öne Çıkan Özellikler:** Uçtan uca şifreleme (E2EE), aracı sunucu olmadan doğrudan cihazdan cihaza veri aktarımı, düşük sistem kaynağı tüketimi.
+* **Teknolojiler:** Rust, Tauri, Svelte/Frontend Teknolojileri, P2P Ağ İletişimi.
 
-
-<p>
-<p>
---------------
-<img width="1084" height="720" alt="2" src="https://github.com/user-attachments/assets/fd58dc41-7451-47ff-b896-53d38a30e337" />
-
-<p>
-<p>
---------------
-
-<img width="1084" height="723" alt="3" src="https://github.com/user-attachments/assets/a5e345b1-8e01-4629-9928-3a1c56167431" />
-<p>
-<p>
---------------
-<img width="1090" height="723" alt="4" src="https://github.com/user-attachments/assets/4fd0abbe-fcd5-452e-8cce-b6038749f48d" />
-<p>
-<p>
---------------
-<img width="1087" height="723" alt="5" src="https://github.com/user-attachments/assets/23feacec-ae65-49ef-849b-9090b0f89a58" />
-<p>
-<p>
---------------
-<img width="1084" height="729" alt="6" src="https://github.com/user-attachments/assets/d25eb0c7-3ee8-4370-9b10-712b656cc882" />
-<p>
-<p>
---------------
-<img width="1084" height="729" alt="7" src="https://github.com/user-attachments/assets/af2b503e-164e-4801-8a21-d5a9fcaf121f" />
-<p>
-<p>
---------------
-
-<img width="1087" height="726" alt="8" src="https://github.com/user-attachments/assets/92c8e39f-4c6c-4e25-bd6e-c2e471e135f9" />
-
-4. Economy Red Team Dashboard (Game Economy Balancer)
-
-Project Summary: A simulation and stress-testing platform designed for multiplayer or RPG games to balance in-game currency, crafting costs, and player economic behaviors.
-
-Key Features: Tick-based timeline visualization of inflation, supply-demand balance, net worth fluctuations, and hoarding behaviors. Includes "Red Team" simulations to stress-test and intentionally crash the economy to find design flaws.
-
-Technologies: Python, Data Visualization, Statistical Modeling.
-
-<img width="1366" height="1832" alt="d92432d8-7570-473a-ac58-2b31615186a3" src="https://github.com/user-attachments/assets/542e518d-8c14-4ef1-bca0-e99aa975a8a5" />
-
-<p>
-<p>
---------------
-  
-<img width="1366" height="1832" alt="59087f44-2049-4e28-8161-730c00aee77d" src="https://github.com/user-attachments/assets/00493954-c3a1-42c6-8332-38045bb819d5" />
-
-5. Monte Carlo Sports Betting Analytics Pro
-
-Project Summary: A desktop application that utilizes big data analysis and Monte Carlo simulations to calculate probabilities and generate optimized betting strategies and slips for sports events.
-
-Key Features: High-speed C++ based simulation engine, adaptive recommendation system based on budget strategies (safe/aggressive profiles), historical data comparison, and smart filtering algorithms to reduce combination costs.
-
-Technologies: Python (GUI), C++ (Analytics Engine), Database Management, Statistical Analysis.
-
-<img width="1366" height="726" alt="sportoto5" src="https://github.com/user-attachments/assets/8d8aa418-2bab-4659-99f9-91331ba8b3aa" />
-<p>
-<p>
---------------
-
-<img width="1366" height="729" alt="sportoto4" src="https://github.com/user-attachments/assets/82784490-7232-4526-9b78-37212b5226a3" />
-<p>
-<p>
---------------
-
-<img width="1366" height="726" alt="sportoto3" src="https://github.com/user-attachments/assets/3e68163d-fe76-4ca2-b264-d02414b28aad" />
-<p>
-<p>
---------------
-
-<img width="1366" height="726" alt="sportoto2" src="https://github.com/user-attachments/assets/0b4f74c8-a96e-4fe0-912d-fad8914ba864" />
-<p>
-<p>
---------------
-
-<img width="1366" height="726" alt="sportoto1" src="https://github.com/user-attachments/assets/5ee2d81f-ef04-4fed-b6b7-3d7fe3d88a42" />
-<p>
-<p>
---------------
-
-<img width="1366" height="723" alt="sportoto7" src="https://github.com/user-attachments/assets/5a4cfa6c-9cb3-4d34-bcf8-4068f490a09f" />
-
-
-
-6. Ghost Sync: E2E P2P Synchronization
-
-Project Summary: A security-focused desktop application providing decentralized (peer-to-peer), cross-device file and clipboard sharing.
-
-Key Features: End-to-end encryption (E2EE), direct device-to-device data transfer without intermediary servers, and minimal system resource consumption.
-
-Technologies: Rust, Tauri, Svelte/Frontend Technologies, P2P Networking.
-
-
-<img width="1366" height="729" alt="ghost1" src="https://github.com/user-attachments/assets/2a51d389-9cf7-429b-ab22-ae1273b1f5db" />
-
-
-🇹🇷 TÜRKÇE PORTFOLYO
-1. Karargah: Yapay Zeka Destekli Otonom Ajan Platformu
-
-Proje Özeti: Freelance iş arayışını, görev yönetimini ve veri toplamayı otomatize eden, hem deterministik hem de yerel/bulut LLM destekli kişisel asistan ve otonom kontrol paneli.
-
-Öne Çıkan Özellikler: Trello API entegrasyonu ile otomatik görev/pano oluşturma, toplantı notlarından aksiyon maddeleri çıkarma, RSS ve web scraping ile online platformlardan mikro iş fırsatlarını (freelance ilanları) anlık toplayıp listeleme, akıllı filtreleme ve LLM ile otomatik başvuru taslağı oluşturma.
-
-Teknolojiler: Python (Backend REST API), Custom Web UI (HTML/CSS/JS), LLM Entegrasyonu (Cloud & Local), API Yönetimi, Web Scraping.
-
-2. Yüksek Hızlı Kripto Sniper Botları (Solana & Pump.fun)
-
-Proje Özeti: Solana ağı ve Pump.fun üzerinde yeni listelenen tokenları milisaniyeler içinde tespit edip alım-satım yapan, performansa dayalı ticaret botları.
-
-Öne Çıkan Özellikler: Dinamik zarar kes (Trailing Stop-Loss) mekanizması, Helius Premium RPC entegrasyonu, GoPlus Security API ile anlık akıllı kontrat güvenlik taraması (honeypot/mint yetkisi kontrolü), yüksek performanslı asenkron işlem yönetimi.
-
-Teknolojiler: Rust, Solana Web3.js / RPC, Asenkron Programlama.
-
-3. Akıllı Kontratlar için Genetik Fuzzer ve Zafiyet Tarayıcı
-
-Proje Özeti: Ethereum tabanlı akıllı kontratlardaki karmaşık mantık hatalarını ve güvenlik açıklarını tespit etmek için geliştirilmiş güvenlik analiz aracı. (Bug Bounty odaklı)
-
-Öne Çıkan Özellikler: Genetik algoritmalar kullanarak kontratların durumunu (state) zorlama, Reentrancy (Yeniden giriş) açıkları ve Timestamp/Block Number manipülasyonu tespiti, çift harcama (Double-Spend) kontrolleri.
-
-Teknolojiler: Rust, Solidity, Fuzz Testing, EVM (Ethereum Virtual Machine) Analizi.
-
-4. Economy Red Team Dashboard (Oyun Ekonomisi Simülasyonu)
-
-Proje Özeti: Çok oyunculu veya RPG oyunlar için tasarlanmış, oyun içi para birimi, üretim (crafting) maliyetleri ve oyuncu davranışlarını simüle eden test platformu.
-
-Öne Çıkan Özellikler: Enflasyon, arz-talep dengesi, net değer değişimi ve stokçuluk davranışlarının zaman çizelgesinde (tick tabanlı) görselleştirilmesi, zafiyet testi (Red Team) ile ekonomiyi çökertme senaryoları simülasyonu.
-
-Teknolojiler: Python, Veri Görselleştirme, İstatistiksel Modelleme.
-
-5. Monte Carlo Spor Analiz ve Tahmin Motoru
-
-Proje Özeti: Spor müsabakaları için büyük veri analizi ve Monte Carlo simülasyonları kullanarak olasılık hesaplayan ve optimize edilmiş bahis stratejileri/kolonları üreten masaüstü yazılımı.
-
-Öne Çıkan Özellikler: C++ tabanlı yüksek hızlı simülasyon motoru, bütçe stratejilerine göre adaptif öneri sistemi (güvenli/cesur profiller), geçmiş hafta istatistikleri karşılaştırması ve akıllı filtreleme ile maliyet düşürme algoritmaları.
-
-Teknolojiler: Python (Arayüz), C++ (Analiz Motoru), Veritabanı Yönetimi, İstatistiksel Analiz.
-
-6. Ghost Sync: Uçtan Uca Şifreli P2P Senkronizasyon
-
-Proje Özeti: Cihazlar arası merkeziyetsiz (peer-to-peer) dosya ve pano (clipboard) paylaşımı sağlayan, güvenlik odaklı masaüstü uygulaması.
-
-Öne Çıkan Özellikler: Uçtan uca şifreleme (E2EE), aracı sunucu olmadan doğrudan cihazdan cihaza veri aktarımı, düşük sistem kaynağı tüketimi.
-
-Teknolojiler: Rust, Tauri, Svelte/Frontend Teknolojileri, P2P Ağ İletişimi.
-
+<img width="100%" alt="ghostsync" src="https://github.com/user-attachments/assets/2a51d389-9cf7-429b-ab22-ae1273b1f5db" />
