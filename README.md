@@ -6,6 +6,7 @@ Welcome to my portfolio! I specialize in high-performance system programming, We
 **📬 İletişim / Contact:**
 * **Email:** [bannimus@gmail.com]
 * **Bionluk:** [https://bionluk.com/guveny]
+* ***Upwork:*** [https://www.upwork.com/freelancers/~011ef1c2781fec68c2]
 
 ---
 
