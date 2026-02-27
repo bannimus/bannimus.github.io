@@ -46,6 +46,10 @@ Welcome to my portfolio! I specialize in high-performance system programming, We
 
 <br><br>
 
+<img width="742" height="389" alt="snip" src="https://github.com/user-attachments/assets/f25e8a2b-7e1e-4637-9466-7d9a0b01522a" />
+
+
+<br><br>
 ## 3. Invariant Fuzzer for Smart Contracts / Akıllı Kontratlar için Genetik Fuzzer ve Zafiyet Tarayıcı
 
 **[EN]**
