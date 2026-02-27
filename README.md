@@ -1,4 +1,5 @@
-# Backend & Systems Developer Portfolio | Sistem ve Backend Geliştirme Portfolyosu
+# Backend & Systems Developer Portfolio 
+# Sistem ve Backend Geliştirme Portfolyosu
 
 Welcome to my portfolio! I specialize in high-performance system programming, Web3/crypto automation, game economy simulations, and data analytics. 
 *(Portfolyoma hoş geldiniz! Yüksek performanslı sistem programlama, Web3/kripto otomasyonları, oyun ekonomisi simülasyonları ve veri analitiği alanlarında uzmanım.)*
