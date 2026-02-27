@@ -143,6 +143,9 @@ Key Features: End-to-end encryption (E2EE), direct device-to-device data transfe
 Technologies: Rust, Tauri, Svelte/Frontend Technologies, P2P Networking.
 
 
+<img width="1366" height="729" alt="ghost1" src="https://github.com/user-attachments/assets/2a51d389-9cf7-429b-ab22-ae1273b1f5db" />
+
+
 🇹🇷 TÜRKÇE PORTFOLYO
 1. Karargah: Yapay Zeka Destekli Otonom Ajan Platformu
 
