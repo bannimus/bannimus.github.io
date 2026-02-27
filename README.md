@@ -26,7 +26,7 @@ Welcome to my portfolio! I specialize in high-performance system programming, We
 
 <br><br>
 
-<img width="100%" alt="karargah1" src="[https://github.com/user-attachments/assets/f183b6f3-7784-410a-a686-9b953fb48f27](https://github-production-user-asset-6210df.s3.amazonaws.com/36173059/556104875-03249ffc-d83b-4650-81f0-1857a5aaec16.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260227%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260227T184631Z&X-Amz-Expires=300&X-Amz-Signature=ebfa16a3aa33027706e1505bad1ed7f6182863c437be189baf1d46f21e948e8e&X-Amz-SignedHeaders=host)" />
+<img width="1366" height="609" alt="kar" src="https://github.com/user-attachments/assets/6b6a8ff4-1304-404d-b111-7b73f42b6ea3" />
 
 <br><br>
 
