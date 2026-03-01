@@ -1,13 +1,14 @@
 # Backend & Systems Developer Portfolio 
 # Sistem ve Backend Geliştirme Portfolyosu
 
-Welcome to my portfolio! I specialize in high-performance system programming, Web3/crypto automation, game economy simulations, and data analytics. 
-*(Portfolyoma hoş geldiniz! Yüksek performanslı sistem programlama, Web3/kripto otomasyonları, oyun ekonomisi simülasyonları ve veri analitiği alanlarında uzmanım.)*
+Welcome to my portfolio! I build performance-focused backend systems, automation/bots, and data-driven tools (systems programming, Web3 tooling, game economy simulations, and analytics).  
+*(Portfolyoma hoş geldiniz! Performans odaklı backend sistemleri, otomasyon/botlar ve veri odaklı araçlar geliştiriyorum (sistem programlama, Web3 araçları, oyun ekonomisi simülasyonları ve analitik).)*  
+
+> Note: I can’t publicly share source code for most projects. I can share redacted snippets, architecture notes, or a short live walkthrough on request.
 
 **📬 İletişim / Contact:**
-* **Email:** [bannimus@gmail.com]
-* **Bionluk:** [https://bionluk.com/guveny]
-* ***Upwork:*** [https://www.upwork.com/freelancers/~011ef1c2781fec68c2]
+* **Upwork (preferred):** https://www.upwork.com/freelancers/~011ef1c2781fec68c2  
+* **Email:** bannimus@gmail.com *(for existing clients / after contract — please use Upwork messages first)*  
 
 ---
 
@@ -31,23 +32,23 @@ Welcome to my portfolio! I specialize in high-performance system programming, We
 
 <br><br>
 
-## 2. High-Frequency Crypto Sniper Bots (Solana & Pump.fun) / Yüksek Hızlı Kripto Sniper Botları
+## 2. Low-Latency Solana Trading Automation (Solana & Pump.fun) / Düşük Gecikmeli Solana Alım‑Satım Otomasyonu
 
 **[EN]**
-* **Project Summary:** Performance-driven trading bots built to detect and execute trades on newly listed tokens across the Solana network and Pump.fun in milliseconds.
+* **Project Summary:** Performance-focused trading automation built to detect newly listed tokens on Solana/Pump.fun and execute low-latency actions.
 * **Key Features:** Dynamic Trailing Stop-Loss mechanisms, Helius Premium RPC integration, real-time smart contract security scanning via GoPlus Security API (honeypot/mint authority checks), and high-performance asynchronous execution.
 * **Technologies:** Rust, Solana Web3.js / RPC, Asynchronous Programming.
 
 **[TR]**
-* **Proje Özeti:** Solana ağı ve Pump.fun üzerinde yeni listelenen tokenları milisaniyeler içinde tespit edip alım-satım yapan, performansa dayalı ticaret botları.
+* **Proje Özeti:** Solana ağı ve Pump.fun üzerinde yeni listelenen tokenları tespit edip düşük gecikmeli aksiyonlar alabilen, performansa dayalı alım‑satım otomasyonları.
 * **Öne Çıkan Özellikler:** Dinamik zarar kes (Trailing Stop-Loss) mekanizması, Helius Premium RPC entegrasyonu, GoPlus Security API ile anlık akıllı kontrat güvenlik taraması (honeypot/mint yetkisi kontrolü), yüksek performanslı asenkron işlem yönetimi.
 * **Teknolojiler:** Rust, Solana Web3.js / RPC, Asenkron Programlama.
 
-<img width="100%" alt="sniper6" src="https://github.com/user-attachments/assets/f1a946b1-ddf9-44d0-8a4d-b59777f49c7d" />
+<img width="100%" alt="solana-bot-1" src="https://github.com/user-attachments/assets/f1a946b1-ddf9-44d0-8a4d-b59777f49c7d" />
 
 <br><br>
 
-<img width="742" height="389" alt="snip" src="https://github.com/user-attachments/assets/f25e8a2b-7e1e-4637-9466-7d9a0b01522a" />
+<img width="742" height="389" alt="solana-bot-2" src="https://github.com/user-attachments/assets/f25e8a2b-7e1e-4637-9466-7d9a0b01522a" />
 
 
 <br><br>
@@ -92,10 +93,10 @@ Welcome to my portfolio! I specialize in high-performance system programming, We
 <br><br>
 
 
-## 5. Monte Carlo Sports Betting Analytics Pro / Monte Carlo Spor Analiz ve Tahmin Motoru
+## 5. Monte Carlo Sports Analytics Pro / Monte Carlo Spor Analiz ve Tahmin Motoru
 
 **[EN]**
-* **Project Summary:** A desktop application that utilizes big data analysis and Monte Carlo simulations to calculate probabilities and generate optimized betting strategies and slips for sports events.
+* **Project Summary:** A desktop application that uses big data analysis and Monte Carlo simulations to calculate probabilities and generate optimized strategy suggestions for sports events.
 * **Key Features:** High-speed C++ based simulation engine, adaptive recommendation system based on budget strategies (safe/aggressive profiles), historical data comparison, and smart filtering algorithms to reduce combination costs.
 * **Technologies:** Python (GUI), C++ (Analytics Engine), Database Management, Statistical Analysis.
 
