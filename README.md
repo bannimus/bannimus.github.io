@@ -8,7 +8,6 @@ Welcome to my portfolio! I build performance-focused backend systems, automation
 
 **📬 İletişim / Contact:**
 * **Upwork (preferred):** https://www.upwork.com/freelancers/~011ef1c2781fec68c2  
-* **Email:** bannimus@gmail.com *(for existing clients / after contract — please use Upwork messages first)*  
 
 ---
 
